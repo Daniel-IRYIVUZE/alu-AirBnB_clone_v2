@@ -3,7 +3,7 @@
 from fabric.api import env, put, run
 from os.path import exists
 
-env.hosts = ['54.82.5.102', '3.94.103.18']
+env.hosts = ['54.242.133.62', '34.233.128.212']
 env.user = "ubuntu"
 env.key = "~/.ssh/id_rsa"
 
@@ -27,5 +27,3 @@ def do_deploy(archive_path):
         return True
     except Exception:
         return False
-
-
