@@ -15,7 +15,7 @@ def cities_route():
     """Comment"""
     return render_template('8-cities_by_states.html',
                            states=storage.all('State').values())
- 
+
 
 @app.teardown_appcontext
 def teardown(self):
