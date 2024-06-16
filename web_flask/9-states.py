@@ -18,7 +18,7 @@ def state_list():
         "9-states.html",
         states=states,
         condition="states_list")
- 
+
 
 @app.route('/states/<id>', strict_slashes=False)
 def states_by_id(id):
