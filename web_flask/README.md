@@ -3,12 +3,12 @@
 
 ####Learning Objectives:
 
-> What is a Web Framework
-> How to build a web framework with Flask
-> How to define routes in Flask
-> What is a route
-> How to handle variables in a route
-> What is a template
-> How to create a HTML response in Flask by using a template
-> How to create a dynamic template (loops, conditions…)
-> How to display in HTML data from a MySQL database
+1. What is a Web Framework
+2. How to build a web framework with Flask
+3. How to define routes in Flask
+4. What is a route
+5. How to handle variables in a route
+6. What is a template
+7. How to create a HTML response in Flask by using a template
+8. How to create a dynamic template (loops, conditions…)
+9. How to display in HTML data from a MySQL database
